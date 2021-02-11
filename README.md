@@ -18,6 +18,6 @@ Once the server is up & running then go to
 
 ###### Technologies used
 ```
-Java 11, Spring Boot, Lombok, Swagger, H2 in memory DB, jUnit & Mockito  
+Java 11, Spring Boot, Spring Security, Lombok, Swagger, H2 in memory DB, jUnit & Mockito  
 Maven, Docker
 ```
