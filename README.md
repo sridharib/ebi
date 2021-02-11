@@ -15,3 +15,9 @@ Once the server is up & running then go to
 > http://localhost:8080/swagger-ui/
 
 **The delete endpoint is secured with basic authentication. Use the credentials user/user.**
+
+###### Technologies used
+```
+Java 11, Spring Boot, Lombok, Swagger, H2 in memory DB, jUnit & Mockito  
+Maven, Docker
+```
